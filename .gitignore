@@ -1,0 +1,9 @@
+*.exe
+*.pem
+*.terraform
+*.tfvars
+*.tfplan
+*.tfstate
+*.tfstate.backup
+*.lock.info
+.DS_Store
